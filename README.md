@@ -32,7 +32,7 @@ This is main repository to group the my course work as part of Coursera Deep Lea
 * [deeplearning.ai-course2](https://github.com/nalbarr/coursera-deeplearning.ai-course2)
 * [deeplearning.ai-course3](https://github.com/nalbarr/coursera-deeplearning.ai-course3)
 * [deeplearning.ai-course4](https://github.com/nalbarr/coursera-deeplearning.ai-course4)
-* [deeplearning.ai-course5] (https://github.com/nalbarr/coursera-deeplearning.ai-course5).
+* [deeplearning.ai-course5](https://github.com/nalbarr/coursera-deeplearning.ai-course5)
 
 ### Related
 * Coursera, Machine Learning (Ng, Stanford) (https://www.coursera.org/learn/machine-learning), (https://github.com/nalbarr/coursera-stanford-machine-learning)
