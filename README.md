@@ -36,9 +36,3 @@ This is main repository to group the my course work as part of Coursera Deep Lea
 ### Related
 * [Coursera, Machine Learning (Ng, Stanford)](https://www.coursera.org/learn/machine-learning)
 * [my repo](https://github.com/nalbarr/coursera-stanford-machine-learning)
-
-### Future Work
-* Assess Generative Adversial Networks (GANs)
-* Assess Reinforcement Learning (RL)
-* Port key programming exercises into standalone Python
-* Port key programming exercises into Scala notebook and compare and constrast
